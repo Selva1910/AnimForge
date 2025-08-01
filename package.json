@@ -1,0 +1,9 @@
+{
+  "name": "com.cjhawk.animforge",
+  "version": "0.1.0",
+  "displayName": "Anim Forge",
+  "description": "It lets you dynamically adjust animation speed using speed curves, trim clips with precision, and bake modified animations into new assets.",
+  "keywords": ["AnimForge"],
+  "unity": "6000.0",
+  "resolutionStrategy": "highestMinor"
+}
